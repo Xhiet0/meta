@@ -25,11 +25,6 @@
       "nombre": "FG42",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 770,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -55,7 +50,21 @@
             "Manos": 27,
             "Piernas": 27,
             "Pies": 27
-          }
+          },
+          "rpm": 770,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 300,
+          "sprint": 250,
+          "velocidad": 740,
+          "cargador": 30,
+          "recarga": 2930,
+          "notas": "Tomado del armero. Sin accesorios."
         },
         "wz": {
           "tramos": [
@@ -81,29 +90,29 @@
             "Manos": 35,
             "Piernas": 31,
             "Pies": 31
-          }
+          },
+          "rpm": 799,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 240,
+          "sprint": 237,
+          "velocidad": 920,
+          "cargador": 30,
+          "recarga": 2490,
+          "notas": "Tomado del armero. Sin accesorios."
         }
-      },
-      "ads": 300,
-      "sprint": 250,
-      "velocidad": 740,
-      "cargador": 30,
-      "recarga": 2930,
-      "notas": "Tomado del armero. Sin accesorios.",
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2
+      }
     },
     {
       "id": "w1787835345938d27v",
       "nombre": "AN-94",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 638,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -129,7 +138,21 @@
             "Manos": 23,
             "Piernas": 23,
             "Pies": 23
-          }
+          },
+          "rpm": 638,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 1200,
+          "balasIniciales": 3,
+          "modo": "Automático",
+          "ads": 265,
+          "sprint": 257,
+          "velocidad": 750,
+          "cargador": 30,
+          "recarga": 3200,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -155,29 +178,29 @@
             "Manos": 41,
             "Piernas": 36,
             "Pies": 36
-          }
+          },
+          "rpm": 645,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 1200,
+          "balasIniciales": 3,
+          "modo": "Automático",
+          "ads": 235,
+          "sprint": 312,
+          "velocidad": 920,
+          "cargador": 30,
+          "recarga": 2720,
+          "notas": ""
         }
-      },
-      "ads": 265,
-      "sprint": 257,
-      "velocidad": 750,
-      "cargador": 30,
-      "recarga": 3200,
-      "notas": "",
-      "dual": "no",
-      "rpmInicial": 1200,
-      "balasIniciales": 3
+      }
     },
     {
       "id": "w178783546389076v5",
       "nombre": "VX COMPACT",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 1034,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -207,7 +230,21 @@
             "Manos": 18,
             "Piernas": 18,
             "Pies": 18
-          }
+          },
+          "rpm": 1034,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 235,
+          "sprint": 195,
+          "velocidad": 690,
+          "cargador": 25,
+          "recarga": 2730,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -233,29 +270,29 @@
             "Manos": 28,
             "Piernas": 25,
             "Pies": 25
-          }
+          },
+          "rpm": 1034,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 210,
+          "sprint": 175,
+          "velocidad": 910,
+          "cargador": 30,
+          "recarga": 2320,
+          "notas": ""
         }
-      },
-      "ads": 235,
-      "sprint": 195,
-      "velocidad": 690,
-      "cargador": 25,
-      "recarga": 2730,
-      "notas": "",
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2
+      }
     },
     {
       "id": "w1787835533057ermb",
       "nombre": "MK35 ISR",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 750,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -277,7 +314,21 @@
             "Manos": 24,
             "Piernas": 24,
             "Pies": 24
-          }
+          },
+          "rpm": 750,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 260,
+          "sprint": 240,
+          "velocidad": 650,
+          "cargador": 30,
+          "recarga": 2933,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -303,29 +354,29 @@
             "Manos": 37,
             "Piernas": 31,
             "Pies": 31
-          }
+          },
+          "rpm": 750,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 235,
+          "sprint": 240,
+          "velocidad": 920,
+          "cargador": 30,
+          "recarga": 2493,
+          "notas": ""
         }
-      },
-      "ads": 260,
-      "sprint": 240,
-      "velocidad": 650,
-      "cargador": 30,
-      "recarga": 2933,
-      "notas": "",
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2
+      }
     },
     {
       "id": "w1787835589715h3v6",
       "nombre": "VOYAK KT-3",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 652,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -351,7 +402,21 @@
             "Manos": 29,
             "Piernas": 29,
             "Pies": 29
-          }
+          },
+          "rpm": 652,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 230,
+          "sprint": 180,
+          "velocidad": 680,
+          "cargador": 30,
+          "recarga": 2667,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -377,29 +442,29 @@
             "Manos": 38,
             "Piernas": 38,
             "Pies": 38
-          }
+          },
+          "rpm": 659,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 230,
+          "sprint": 170,
+          "velocidad": 900,
+          "cargador": 30,
+          "recarga": 2266,
+          "notas": ""
         }
-      },
-      "ads": 230,
-      "sprint": 180,
-      "velocidad": 680,
-      "cargador": 30,
-      "recarga": 2667,
-      "notas": "",
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2
+      }
     },
     {
       "id": "w1787835692854oztz",
       "nombre": "EGRT-17",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 811,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -425,7 +490,21 @@
             "Manos": 23,
             "Piernas": 23,
             "Pies": 23
-          }
+          },
+          "rpm": 811,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 240,
+          "sprint": 200,
+          "velocidad": 710,
+          "cargador": 34,
+          "recarga": 3730,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -451,29 +530,29 @@
             "Manos": 35,
             "Piernas": 31,
             "Pies": 31
-          }
+          },
+          "rpm": 811,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 230,
+          "sprint": 179,
+          "velocidad": 915,
+          "cargador": 34,
+          "recarga": 2685,
+          "notas": ""
         }
-      },
-      "ads": 240,
-      "sprint": 200,
-      "velocidad": 710,
-      "cargador": 34,
-      "recarga": 3730,
-      "notas": "",
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2
+      }
     },
     {
       "id": "w1787835742600p9dx",
       "nombre": "MADDOX RFB",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 723,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -499,7 +578,21 @@
             "Manos": 28,
             "Piernas": 28,
             "Pies": 28
-          }
+          },
+          "rpm": 723,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 260,
+          "sprint": 190,
+          "velocidad": 650,
+          "cargador": 40,
+          "recarga": 2860,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -525,29 +618,29 @@
             "Manos": 38,
             "Piernas": 36,
             "Pies": 36
-          }
+          },
+          "rpm": 690,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 240,
+          "sprint": 180,
+          "velocidad": 905,
+          "cargador": 40,
+          "recarga": 2431,
+          "notas": ""
         }
-      },
-      "ads": 260,
-      "sprint": 190,
-      "velocidad": 650,
-      "cargador": 40,
-      "recarga": 2860,
-      "notas": "",
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2
+      }
     },
     {
       "id": "w1787835805151p98t",
       "nombre": "M15 MOD 0",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 769,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -573,7 +666,21 @@
             "Manos": 21,
             "Piernas": 21,
             "Pies": 21
-          }
+          },
+          "rpm": 769,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 210,
+          "velocidad": 730,
+          "cargador": 30,
+          "recarga": 3000,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -599,29 +706,29 @@
             "Manos": 36,
             "Piernas": 33,
             "Pies": 33
-          }
+          },
+          "rpm": 769,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 235,
+          "sprint": 199,
+          "velocidad": 920,
+          "cargador": 30,
+          "recarga": 2550,
+          "notas": ""
         }
-      },
-      "ads": 250,
-      "sprint": 210,
-      "velocidad": 730,
-      "cargador": 30,
-      "recarga": 3000,
-      "notas": "",
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2
+      }
     },
     {
       "id": "w1787835858145gjmx",
       "nombre": "AK-27",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 682,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -651,7 +758,21 @@
             "Manos": 28,
             "Piernas": 28,
             "Pies": 28
-          }
+          },
+          "rpm": 682,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 260,
+          "sprint": 250,
+          "velocidad": 700,
+          "cargador": 30,
+          "recarga": 2900,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -677,29 +798,29 @@
             "Manos": 38,
             "Piernas": 36,
             "Pies": 36
-          }
+          },
+          "rpm": 690,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 240,
+          "sprint": 190,
+          "velocidad": 900,
+          "cargador": 30,
+          "recarga": 2465,
+          "notas": ""
         }
-      },
-      "ads": 260,
-      "sprint": 250,
-      "velocidad": 700,
-      "cargador": 30,
-      "recarga": 2900,
-      "notas": "",
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2
+      }
     },
     {
       "id": "w1787835884673scet",
       "nombre": "MXR-17",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 500,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -725,7 +846,21 @@
             "Manos": 32,
             "Piernas": 32,
             "Pies": 32
-          }
+          },
+          "rpm": 500,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 240,
+          "sprint": 200,
+          "velocidad": 780,
+          "cargador": 25,
+          "recarga": 2667,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -751,29 +886,29 @@
             "Manos": 49,
             "Piernas": 46,
             "Pies": 46
-          }
+          },
+          "rpm": 500,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 245,
+          "sprint": 200,
+          "velocidad": 800,
+          "cargador": 30,
+          "recarga": 2266,
+          "notas": ""
         }
-      },
-      "ads": 240,
-      "sprint": 200,
-      "velocidad": 780,
-      "cargador": 25,
-      "recarga": 2667,
-      "notas": "",
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2
+      }
     },
     {
       "id": "w1787836004026jbm6",
       "nombre": "X9 MAVERICK",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Ráfaga",
-      "rpm": 464,
-      "pellets": 1,
-      "burstN": 3,
-      "burstDelay": 150,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -803,7 +938,21 @@
             "Manos": 33,
             "Piernas": 33,
             "Pies": 33
-          }
+          },
+          "rpm": 464,
+          "pellets": 1,
+          "burstN": 3,
+          "burstDelay": 150,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Ráfaga",
+          "ads": 260,
+          "sprint": 200,
+          "velocidad": 760,
+          "cargador": 30,
+          "recarga": 3800,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -829,29 +978,29 @@
             "Manos": 44,
             "Piernas": 43,
             "Pies": 43
-          }
+          },
+          "rpm": 479,
+          "pellets": 1,
+          "burstN": 3,
+          "burstDelay": 150,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Ráfaga",
+          "ads": 245,
+          "sprint": 195,
+          "velocidad": 900,
+          "cargador": 30,
+          "recarga": 3230,
+          "notas": ""
         }
-      },
-      "ads": 260,
-      "sprint": 200,
-      "velocidad": 760,
-      "cargador": 30,
-      "recarga": 3800,
-      "notas": "",
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2
+      }
     },
     {
       "id": "w17878368934774n07",
       "nombre": "DS20 MIRAGE",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 625,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -877,7 +1026,21 @@
             "Manos": 28,
             "Piernas": 28,
             "Pies": 28
-          }
+          },
+          "rpm": 625,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 270,
+          "sprint": 220,
+          "velocidad": 720,
+          "cargador": 30,
+          "recarga": 2733,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -903,29 +1066,29 @@
             "Manos": 45,
             "Piernas": 41,
             "Pies": 41
-          }
+          },
+          "rpm": 606,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 230,
+          "sprint": 178,
+          "velocidad": 900,
+          "cargador": 30,
+          "recarga": 2323,
+          "notas": ""
         }
-      },
-      "ads": 270,
-      "sprint": 220,
-      "velocidad": 720,
-      "cargador": 30,
-      "recarga": 2733,
-      "notas": "",
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2
+      }
     },
     {
       "id": "w178783695401519ic",
       "nombre": "PEACEKEEPER MK.1",
       "categoria": "Fusil de asalto",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 857,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -955,7 +1118,21 @@
             "Manos": 23,
             "Piernas": 23,
             "Pies": 23
-          }
+          },
+          "rpm": 857,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 225,
+          "sprint": 170,
+          "velocidad": 630,
+          "cargador": 30,
+          "recarga": 2700,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -981,32 +1158,29 @@
             "Manos": 31,
             "Piernas": 31,
             "Pies": 31
-          }
+          },
+          "rpm": 870,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 230,
+          "sprint": 160,
+          "velocidad": 900,
+          "cargador": 30,
+          "recarga": 2295,
+          "notas": ""
         }
-      },
-      "ads": 225,
-      "sprint": 170,
-      "velocidad": 630,
-      "cargador": 30,
-      "recarga": 2700,
-      "notas": "",
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2
+      }
     },
     {
       "id": "w17888602306613w4c",
       "nombre": "GREMLIN",
       "categoria": "Subfusil",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 1071,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "simultanea",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1036,7 +1210,21 @@
             "Manos": 12,
             "Piernas": 12,
             "Pies": 12
-          }
+          },
+          "rpm": 1071,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "simultanea",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 210,
+          "sprint": 120,
+          "velocidad": 510,
+          "cargador": 26,
+          "recarga": 2528,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1062,29 +1250,29 @@
             "Manos": 15,
             "Piernas": 14,
             "Pies": 14
-          }
+          },
+          "rpm": 1071,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "simultanea",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 160,
+          "sprint": 103,
+          "velocidad": 510,
+          "cargador": 35,
+          "recarga": 2528,
+          "notas": ""
         }
-      },
-      "ads": 210,
-      "sprint": 120,
-      "velocidad": 510,
-      "cargador": 26,
-      "recarga": 2528,
-      "notas": ""
+      }
     },
     {
       "id": "w1788860303341owjd",
       "nombre": "CBRS-3",
       "categoria": "Subfusil",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 720,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1114,7 +1302,21 @@
             "Manos": 29,
             "Piernas": 29,
             "Pies": 29
-          }
+          },
+          "rpm": 720,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 210,
+          "sprint": 140,
+          "velocidad": 590,
+          "cargador": 60,
+          "recarga": 3560,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1140,29 +1342,29 @@
             "Manos": 38,
             "Piernas": 36,
             "Pies": 36
-          }
+          },
+          "rpm": 720,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 160,
+          "sprint": 120,
+          "velocidad": 590,
+          "cargador": 60,
+          "recarga": 2848,
+          "notas": ""
         }
-      },
-      "ads": 210,
-      "sprint": 140,
-      "velocidad": 590,
-      "cargador": 60,
-      "recarga": 3560,
-      "notas": ""
+      }
     },
     {
       "id": "w1788860416718llna",
       "nombre": "VST",
       "categoria": "Subfusil",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 1053,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1192,7 +1394,21 @@
             "Manos": 20,
             "Piernas": 20,
             "Pies": 20
-          }
+          },
+          "rpm": 1053,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 190,
+          "sprint": 110,
+          "velocidad": 520,
+          "cargador": 30,
+          "recarga": 2730,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1218,29 +1434,29 @@
             "Manos": 29,
             "Piernas": 24,
             "Pies": 24
-          }
+          },
+          "rpm": 1091,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 155,
+          "sprint": 100,
+          "velocidad": 520,
+          "cargador": 30,
+          "recarga": 2184,
+          "notas": ""
         }
-      },
-      "ads": 190,
-      "sprint": 110,
-      "velocidad": 520,
-      "cargador": 30,
-      "recarga": 2730,
-      "notas": ""
+      }
     },
     {
       "id": "w1788860466579aqgc",
       "nombre": "REV-46",
       "categoria": "Subfusil",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 1111,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1270,7 +1486,21 @@
             "Manos": 17,
             "Piernas": 17,
             "Pies": 17
-          }
+          },
+          "rpm": 1111,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 190,
+          "sprint": 120,
+          "velocidad": 540,
+          "cargador": 35,
+          "recarga": 2900,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1296,29 +1526,29 @@
             "Manos": 26,
             "Piernas": 26,
             "Pies": 26
-          }
+          },
+          "rpm": 1154,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 160,
+          "sprint": 105,
+          "velocidad": 620,
+          "cargador": 35,
+          "recarga": 2233,
+          "notas": ""
         }
-      },
-      "ads": 190,
-      "sprint": 120,
-      "velocidad": 540,
-      "cargador": 35,
-      "recarga": 2900,
-      "notas": ""
+      }
     },
     {
       "id": "w1788860510549la8e",
       "nombre": "STURMWOLF",
       "categoria": "Subfusil",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 667,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1348,7 +1578,21 @@
             "Manos": 30,
             "Piernas": 30,
             "Pies": 30
-          }
+          },
+          "rpm": 667,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 220,
+          "sprint": 150,
+          "velocidad": 540,
+          "cargador": 32,
+          "recarga": 2730,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1374,29 +1618,29 @@
             "Manos": 39,
             "Piernas": 39,
             "Pies": 39
-          }
+          },
+          "rpm": 645,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 160,
+          "sprint": 130,
+          "velocidad": 540,
+          "cargador": 32,
+          "recarga": 2184,
+          "notas": ""
         }
-      },
-      "ads": 220,
-      "sprint": 150,
-      "velocidad": 540,
-      "cargador": 32,
-      "recarga": 2730,
-      "notas": ""
+      }
     },
     {
       "id": "w1788860572296q5hc",
       "nombre": "KOGOT-7",
       "categoria": "Subfusil",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 952,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1426,7 +1670,21 @@
             "Manos": 21,
             "Piernas": 21,
             "Pies": 21
-          }
+          },
+          "rpm": 952,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 200,
+          "sprint": 125,
+          "velocidad": 540,
+          "cargador": 30,
+          "recarga": 2860,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1452,29 +1710,29 @@
             "Manos": 31,
             "Piernas": 27,
             "Pies": 27
-          }
+          },
+          "rpm": 968,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 170,
+          "sprint": 110,
+          "velocidad": 540,
+          "cargador": 30,
+          "recarga": 2288,
+          "notas": ""
         }
-      },
-      "ads": 200,
-      "sprint": 125,
-      "velocidad": 540,
-      "cargador": 30,
-      "recarga": 2860,
-      "notas": ""
+      }
     },
     {
       "id": "w1788860617059h8jj",
       "nombre": "RYDEN 45K",
       "categoria": "Subfusil",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 909,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1504,7 +1762,21 @@
             "Manos": 22,
             "Piernas": 22,
             "Pies": 22
-          }
+          },
+          "rpm": 909,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 195,
+          "sprint": 130,
+          "velocidad": 530,
+          "cargador": 30,
+          "recarga": 2933,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1530,29 +1802,29 @@
             "Manos": 33,
             "Piernas": 31,
             "Pies": 31
-          }
+          },
+          "rpm": 923,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 160,
+          "sprint": 102,
+          "velocidad": 530,
+          "cargador": 30,
+          "recarga": 2346,
+          "notas": ""
         }
-      },
-      "ads": 195,
-      "sprint": 130,
-      "velocidad": 530,
-      "cargador": 30,
-      "recarga": 2933,
-      "notas": ""
+      }
     },
     {
       "id": "w1788860665599lxu3",
       "nombre": "RK-9",
       "categoria": "Subfusil",
       "juego": "Ambos",
-      "modo": "Ráfaga",
-      "rpm": 556,
-      "pellets": 1,
-      "burstN": 3,
-      "burstDelay": 125,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1582,7 +1854,21 @@
             "Manos": 32,
             "Piernas": 32,
             "Pies": 32
-          }
+          },
+          "rpm": 556,
+          "pellets": 1,
+          "burstN": 3,
+          "burstDelay": 125,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Ráfaga",
+          "ads": 190,
+          "sprint": 120,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2867,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1608,29 +1894,29 @@
             "Manos": 47,
             "Piernas": 47,
             "Pies": 47
-          }
+          },
+          "rpm": 570,
+          "pellets": 1,
+          "burstN": 3,
+          "burstDelay": 125,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Ráfaga",
+          "ads": 165,
+          "sprint": 120,
+          "velocidad": 620,
+          "cargador": 30,
+          "recarga": 2293,
+          "notas": ""
         }
-      },
-      "ads": 190,
-      "sprint": 120,
-      "velocidad": 600,
-      "cargador": 30,
-      "recarga": 2867,
-      "notas": ""
+      }
     },
     {
       "id": "w1788861138254flcu",
       "nombre": "RAZOR 9 MM",
       "categoria": "Subfusil",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 1000,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1660,7 +1946,21 @@
             "Manos": 21,
             "Piernas": 21,
             "Pies": 21
-          }
+          },
+          "rpm": 1000,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 210,
+          "sprint": 150,
+          "velocidad": 500,
+          "cargador": 30,
+          "recarga": 2760,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1686,29 +1986,29 @@
             "Manos": 30,
             "Piernas": 27,
             "Pies": 27
-          }
+          },
+          "rpm": 1000,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 175,
+          "sprint": 103,
+          "velocidad": 500,
+          "cargador": 30,
+          "recarga": 2208,
+          "notas": ""
         }
-      },
-      "ads": 210,
-      "sprint": 150,
-      "velocidad": 500,
-      "cargador": 30,
-      "recarga": 2760,
-      "notas": ""
+      }
     },
     {
       "id": "w17888612007013trw",
       "nombre": "DRAVEC 45",
       "categoria": "Subfusil",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 625,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1738,7 +2038,21 @@
             "Manos": 26,
             "Piernas": 26,
             "Pies": 26
-          }
+          },
+          "rpm": 625,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 235,
+          "sprint": 170,
+          "velocidad": 610,
+          "cargador": 36,
+          "recarga": 2600,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1764,29 +2078,29 @@
             "Manos": 43,
             "Piernas": 41,
             "Pies": 41
-          }
+          },
+          "rpm": 652,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 170,
+          "sprint": 125,
+          "velocidad": 480,
+          "cargador": 36,
+          "recarga": 2080,
+          "notas": ""
         }
-      },
-      "ads": 235,
-      "sprint": 170,
-      "velocidad": 610,
-      "cargador": 36,
-      "recarga": 2600,
-      "notas": ""
+      }
     },
     {
       "id": "w17888612488948i0n",
       "nombre": "CARBON 57",
       "categoria": "Subfusil",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 833,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1816,7 +2130,21 @@
             "Manos": 24,
             "Piernas": 24,
             "Pies": 24
-          }
+          },
+          "rpm": 833,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 240,
+          "sprint": 170,
+          "velocidad": 550,
+          "cargador": 50,
+          "recarga": 3200,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1842,29 +2170,29 @@
             "Manos": 34,
             "Piernas": 30,
             "Pies": 30
-          }
+          },
+          "rpm": 857,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 175,
+          "sprint": 113,
+          "velocidad": 550,
+          "cargador": 40,
+          "recarga": 2560,
+          "notas": ""
         }
-      },
-      "ads": 240,
-      "sprint": 170,
-      "velocidad": 550,
-      "cargador": 50,
-      "recarga": 3200,
-      "notas": ""
+      }
     },
     {
       "id": "w17888612956581o0s",
       "nombre": "MPC-25",
       "categoria": "Subfusil",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 750,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1894,7 +2222,21 @@
             "Manos": 30,
             "Piernas": 30,
             "Pies": 30
-          }
+          },
+          "rpm": 750,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 180,
+          "sprint": 110,
+          "velocidad": 520,
+          "cargador": 30,
+          "recarga": 2533,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1920,29 +2262,29 @@
             "Manos": 42,
             "Piernas": 39,
             "Pies": 39
-          }
+          },
+          "rpm": 706,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 165,
+          "sprint": 120,
+          "velocidad": 520,
+          "cargador": 30,
+          "recarga": 2026,
+          "notas": ""
         }
-      },
-      "ads": 180,
-      "sprint": 110,
-      "velocidad": 520,
-      "cargador": 30,
-      "recarga": 2533,
-      "notas": ""
+      }
     },
     {
       "id": "w178886188668864b5",
       "nombre": "MAMMOTH",
       "categoria": "Ametralladora ligera",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 408,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -1968,7 +2310,21 @@
             "Manos": 46,
             "Piernas": 46,
             "Pies": 46
-          }
+          },
+          "rpm": 408,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 450,
+          "sprint": 270,
+          "velocidad": 810,
+          "cargador": 50,
+          "recarga": 4733,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -1994,29 +2350,29 @@
             "Manos": 63,
             "Piernas": 63,
             "Pies": 63
-          }
+          },
+          "rpm": 366,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 295,
+          "sprint": 270,
+          "velocidad": 870,
+          "cargador": 50,
+          "recarga": 4733,
+          "notas": ""
         }
-      },
-      "ads": 450,
-      "sprint": 270,
-      "velocidad": 810,
-      "cargador": 50,
-      "recarga": 4733,
-      "notas": ""
+      }
     },
     {
       "id": "w1788861932062gb1x",
       "nombre": "SOKOL 545",
       "categoria": "Ametralladora ligera",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 583,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -2042,7 +2398,21 @@
             "Manos": 32,
             "Piernas": 32,
             "Pies": 32
-          }
+          },
+          "rpm": 583,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 420,
+          "sprint": 235,
+          "velocidad": 740,
+          "cargador": 102,
+          "recarga": 7333,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -2068,29 +2438,29 @@
             "Manos": 44,
             "Piernas": 44,
             "Pies": 44
-          }
+          },
+          "rpm": 533,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 285,
+          "sprint": 235,
+          "velocidad": 890,
+          "cargador": 102,
+          "recarga": 4986,
+          "notas": ""
         }
-      },
-      "ads": 420,
-      "sprint": 235,
-      "velocidad": 740,
-      "cargador": 102,
-      "recarga": 7333,
-      "notas": ""
+      }
     },
     {
       "id": "w17888619869983xth",
       "nombre": "MK.78",
       "categoria": "Ametralladora ligera",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 685,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -2116,7 +2486,21 @@
             "Manos": 31,
             "Piernas": 31,
             "Pies": 31
-          }
+          },
+          "rpm": 685,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 440,
+          "sprint": 250,
+          "velocidad": 800,
+          "cargador": 75,
+          "recarga": 6430,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -2142,29 +2526,29 @@
             "Manos": 37,
             "Piernas": 35,
             "Pies": 35
-          }
+          },
+          "rpm": 652,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 230,
+          "velocidad": 890,
+          "cargador": 75,
+          "recarga": 4372,
+          "notas": ""
         }
-      },
-      "ads": 440,
-      "sprint": 250,
-      "velocidad": 800,
-      "cargador": 75,
-      "recarga": 6430,
-      "notas": ""
+      }
     },
     {
       "id": "w1788862056582d66n",
       "nombre": "XM325",
       "categoria": "Ametralladora ligera",
       "juego": "Ambos",
-      "modo": "Automático",
-      "rpm": 1020,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -2190,7 +2574,21 @@
             "Manos": 23,
             "Piernas": 23,
             "Pies": 23
-          }
+          },
+          "rpm": 1020,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 390,
+          "sprint": 220,
+          "velocidad": 750,
+          "cargador": 60,
+          "recarga": 5733,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -2212,29 +2610,29 @@
             "Manos": 27,
             "Piernas": 24,
             "Pies": 24
-          }
+          },
+          "rpm": 1000,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 245,
+          "sprint": 220,
+          "velocidad": 920,
+          "cargador": 60,
+          "recarga": 4586,
+          "notas": ""
         }
-      },
-      "ads": 390,
-      "sprint": 220,
-      "velocidad": 750,
-      "cargador": 60,
-      "recarga": 5733,
-      "notas": ""
+      }
     },
     {
       "id": "w1788862713744yuuo",
       "nombre": "KRS-7,62",
       "categoria": "Fusil táctico",
       "juego": "Ambos",
-      "modo": "Semiautomático",
-      "rpm": 364,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -2260,7 +2658,21 @@
             "Manos": 65,
             "Piernas": 65,
             "Pies": 65
-          }
+          },
+          "rpm": 364,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Semiautomático",
+          "ads": 330,
+          "sprint": 250,
+          "velocidad": 875,
+          "cargador": 10,
+          "recarga": 3233,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -2286,29 +2698,29 @@
             "Manos": 75,
             "Piernas": 67,
             "Pies": 67
-          }
+          },
+          "rpm": 200,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Semiautomático",
+          "ads": 340,
+          "sprint": 250,
+          "velocidad": 820,
+          "cargador": 10,
+          "recarga": 3233,
+          "notas": ""
         }
-      },
-      "ads": 330,
-      "sprint": 250,
-      "velocidad": 875,
-      "cargador": 10,
-      "recarga": 3233,
-      "notas": ""
+      }
     },
     {
       "id": "w1788862803437kzs6",
       "nombre": "SWORDFISH A1",
       "categoria": "Fusil táctico",
       "juego": "Ambos",
-      "modo": "Ráfaga",
-      "rpm": 451,
-      "pellets": 1,
-      "burstN": 4,
-      "burstDelay": 12,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -2330,7 +2742,21 @@
             "Manos": 31,
             "Piernas": 31,
             "Pies": 31
-          }
+          },
+          "rpm": 451,
+          "pellets": 1,
+          "burstN": 4,
+          "burstDelay": 12,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Ráfaga",
+          "ads": 340,
+          "sprint": 240,
+          "velocidad": 780,
+          "cargador": 36,
+          "recarga": 3160,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -2352,29 +2778,29 @@
             "Manos": 45,
             "Piernas": 40,
             "Pies": 40
-          }
+          },
+          "rpm": 488,
+          "pellets": 1,
+          "burstN": 4,
+          "burstDelay": 12,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Ráfaga",
+          "ads": 270,
+          "sprint": 240,
+          "velocidad": 915,
+          "cargador": 36,
+          "recarga": 2622,
+          "notas": ""
         }
-      },
-      "ads": 340,
-      "sprint": 240,
-      "velocidad": 780,
-      "cargador": 36,
-      "recarga": 3160,
-      "notas": ""
+      }
     },
     {
       "id": "w1788863468229sdi3",
       "nombre": "M8A1",
       "categoria": "Fusil táctico",
       "juego": "Ambos",
-      "modo": "Ráfaga",
-      "rpm": 591,
-      "pellets": 1,
-      "burstN": 4,
-      "burstDelay": 10,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -2400,7 +2826,21 @@
             "Manos": 30,
             "Piernas": 30,
             "Pies": 30
-          }
+          },
+          "rpm": 591,
+          "pellets": 1,
+          "burstN": 4,
+          "burstDelay": 10,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Ráfaga",
+          "ads": 310,
+          "sprint": 220,
+          "velocidad": 850,
+          "cargador": 32,
+          "recarga": 3467,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -2422,29 +2862,29 @@
             "Manos": 34,
             "Piernas": 34,
             "Pies": 34
-          }
+          },
+          "rpm": 591,
+          "pellets": 1,
+          "burstN": 4,
+          "burstDelay": 10,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Ráfaga",
+          "ads": 265,
+          "sprint": 200,
+          "velocidad": 900,
+          "cargador": 32,
+          "recarga": 2877,
+          "notas": ""
         }
-      },
-      "ads": 310,
-      "sprint": 220,
-      "velocidad": 850,
-      "cargador": 32,
-      "recarga": 3467,
-      "notas": ""
+      }
     },
     {
       "id": "w1788863651311f835",
       "nombre": "M34 NOVALINE",
       "categoria": "Fusil táctico",
       "juego": "Ambos",
-      "modo": "Ráfaga",
-      "rpm": 235,
-      "pellets": 1,
-      "burstN": 2,
-      "burstDelay": 255,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -2466,7 +2906,21 @@
             "Manos": 50,
             "Piernas": 50,
             "Pies": 50
-          }
+          },
+          "rpm": 235,
+          "pellets": 1,
+          "burstN": 2,
+          "burstDelay": 255,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Ráfaga",
+          "ads": 350,
+          "sprint": 250,
+          "velocidad": 800,
+          "cargador": 20,
+          "recarga": 3067,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -2492,29 +2946,29 @@
             "Manos": 66,
             "Piernas": 48,
             "Pies": 48
-          }
+          },
+          "rpm": 235,
+          "pellets": 1,
+          "burstN": 2,
+          "burstDelay": 255,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Ráfaga",
+          "ads": 300,
+          "sprint": 250,
+          "velocidad": 885,
+          "cargador": 20,
+          "recarga": 2545,
+          "notas": ""
         }
-      },
-      "ads": 350,
-      "sprint": 250,
-      "velocidad": 800,
-      "cargador": 20,
-      "recarga": 3067,
-      "notas": ""
+      }
     },
     {
       "id": "w17888639606003g3h",
       "nombre": "WARDEN 308",
       "categoria": "Fusil táctico",
       "juego": "Ambos",
-      "modo": "Semiautomático",
-      "rpm": 550,
-      "pellets": 1,
-      "burstN": 0,
-      "burstDelay": 0,
-      "dual": "no",
-      "rpmInicial": 0,
-      "balasIniciales": 2,
       "perfiles": {
         "mp": {
           "tramos": [
@@ -2544,7 +2998,21 @@
             "Manos": 75,
             "Piernas": 75,
             "Pies": 75
-          }
+          },
+          "rpm": 550,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Semiautomático",
+          "ads": 365,
+          "sprint": 240,
+          "velocidad": 910,
+          "cargador": 8,
+          "recarga": 4100,
+          "notas": ""
         },
         "wz": {
           "tramos": [
@@ -2570,15 +3038,23 @@
             "Manos": 80,
             "Piernas": 64,
             "Pies": 64
-          }
+          },
+          "rpm": 300,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Semiautomático",
+          "ads": 215,
+          "sprint": 240,
+          "velocidad": 950,
+          "cargador": 8,
+          "recarga": 2378,
+          "notas": ""
         }
-      },
-      "ads": 365,
-      "sprint": 240,
-      "velocidad": 910,
-      "cargador": 8,
-      "recarga": 4100,
-      "notas": ""
+      }
     }
   ]
 }
