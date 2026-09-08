@@ -24,9 +24,9 @@
       "id": "fg42",
       "nombre": "FG42",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 799,
+      "rpm": 770,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -34,11 +34,37 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 42,
+              "hasta": 15,
+              "dano": 27
+            },
+            {
+              "hasta": 33,
+              "dano": 23
+            },
+            {
+              "hasta": 9999,
+              "dano": 19
+            }
+          ],
+          "zonas": {
+            "Cabeza": 32,
+            "Cuello": 27,
+            "Torso superior": 27,
+            "Brazos": 27,
+            "Abdomen": 27,
+            "Manos": 27,
+            "Piernas": 27,
+            "Pies": 27
+          }
+        },
+        "wz": {
+          "tramos": [
+            {
+              "hasta": 40,
               "dano": 35
             },
             {
-              "hasta": 61,
+              "hasta": 58,
               "dano": 30
             },
             {
@@ -56,39 +82,13 @@
             "Piernas": 31,
             "Pies": 31
           }
-        },
-        "wz": {
-          "tramos": [
-            {
-              "hasta": 40,
-              "dano": 35
-            },
-            {
-              "hasta": 58,
-              "dano": 30
-            },
-            {
-              "hasta": 9999,
-              "dano": 28
-            }
-          ],
-          "zonas": {
-            "Cabeza": 40,
-            "Cuello": 35,
-            "Torso superior": 35,
-            "Brazos": 35,
-            "Abdomen": 31,
-            "Manos": 35,
-            "Piernas": 31,
-            "Pies": 31
-          }
         }
       },
-      "ads": 240,
-      "sprint": 237,
-      "velocidad": 920,
+      "ads": 300,
+      "sprint": 250,
+      "velocidad": 740,
       "cargador": 30,
-      "recarga": 2490,
+      "recarga": 2930,
       "notas": "Tomado del armero. Sin accesorios.",
       "dual": "no",
       "rpmInicial": 0,
@@ -98,9 +98,9 @@
       "id": "w1787835345938d27v",
       "nombre": "AN-94",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 645,
+      "rpm": 638,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -108,23 +108,27 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 20,
+              "dano": 23
+            },
+            {
+              "hasta": 37,
+              "dano": 22
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 19
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 31,
+            "Cuello": 27,
+            "Torso superior": 27,
+            "Brazos": 23,
+            "Abdomen": 23,
+            "Manos": 23,
+            "Piernas": 23,
+            "Pies": 23
           }
         },
         "wz": {
@@ -154,11 +158,11 @@
           }
         }
       },
-      "ads": 235,
+      "ads": 265,
       "sprint": 257,
-      "velocidad": 920,
+      "velocidad": 750,
       "cargador": 30,
-      "recarga": 2720,
+      "recarga": 3200,
       "notas": "",
       "dual": "no",
       "rpmInicial": 1200,
@@ -168,7 +172,7 @@
       "id": "w178783546389076v5",
       "nombre": "VX COMPACT",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
       "rpm": 1034,
       "pellets": 1,
@@ -178,23 +182,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 15,
+              "dano": 18
+            },
+            {
+              "hasta": 36,
+              "dano": 17
+            },
+            {
+              "hasta": 48,
+              "dano": 15
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 13
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 22,
+            "Cuello": 18,
+            "Torso superior": 18,
+            "Brazos": 18,
+            "Abdomen": 18,
+            "Manos": 18,
+            "Piernas": 18,
+            "Pies": 18
           }
         },
         "wz": {
@@ -224,11 +236,11 @@
           }
         }
       },
-      "ads": 210,
-      "sprint": 175,
-      "velocidad": 910,
-      "cargador": 30,
-      "recarga": 2320,
+      "ads": 235,
+      "sprint": 195,
+      "velocidad": 690,
+      "cargador": 25,
+      "recarga": 2730,
       "notas": "",
       "dual": "no",
       "rpmInicial": 0,
@@ -238,7 +250,7 @@
       "id": "w1787835533057ermb",
       "nombre": "MK35 ISR",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
       "rpm": 750,
       "pellets": 1,
@@ -248,23 +260,23 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 42,
+              "dano": 24
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 19
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 27,
+            "Cuello": 24,
+            "Torso superior": 24,
+            "Brazos": 24,
+            "Abdomen": 24,
+            "Manos": 24,
+            "Piernas": 24,
+            "Pies": 24
           }
         },
         "wz": {
@@ -294,11 +306,11 @@
           }
         }
       },
-      "ads": 235,
+      "ads": 260,
       "sprint": 240,
-      "velocidad": 920,
+      "velocidad": 650,
       "cargador": 30,
-      "recarga": 2493,
+      "recarga": 2933,
       "notas": "",
       "dual": "no",
       "rpmInicial": 0,
@@ -308,9 +320,9 @@
       "id": "w1787835589715h3v6",
       "nombre": "VOYAK KT-3",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 659,
+      "rpm": 652,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -318,23 +330,27 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 23,
+              "dano": 29
+            },
+            {
+              "hasta": 41,
+              "dano": 23
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 19
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 34,
+            "Cuello": 29,
+            "Torso superior": 29,
+            "Brazos": 29,
+            "Abdomen": 29,
+            "Manos": 29,
+            "Piernas": 29,
+            "Pies": 29
           }
         },
         "wz": {
@@ -365,10 +381,10 @@
         }
       },
       "ads": 230,
-      "sprint": 170,
-      "velocidad": 900,
+      "sprint": 180,
+      "velocidad": 680,
       "cargador": 30,
-      "recarga": 2266,
+      "recarga": 2667,
       "notas": "",
       "dual": "no",
       "rpmInicial": 0,
@@ -378,7 +394,7 @@
       "id": "w1787835692854oztz",
       "nombre": "EGRT-17",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
       "rpm": 811,
       "pellets": 1,
@@ -388,23 +404,27 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 44,
+              "dano": 23
+            },
+            {
+              "hasta": 58,
+              "dano": 19
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 16
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 27,
+            "Cuello": 23,
+            "Torso superior": 23,
+            "Brazos": 23,
+            "Abdomen": 23,
+            "Manos": 23,
+            "Piernas": 23,
+            "Pies": 23
           }
         },
         "wz": {
@@ -434,11 +454,11 @@
           }
         }
       },
-      "ads": 230,
-      "sprint": 179,
-      "velocidad": 915,
-      "cargador": 30,
-      "recarga": 2685,
+      "ads": 240,
+      "sprint": 200,
+      "velocidad": 710,
+      "cargador": 34,
+      "recarga": 3730,
       "notas": "",
       "dual": "no",
       "rpmInicial": 0,
@@ -448,9 +468,9 @@
       "id": "w1787835742600p9dx",
       "nombre": "MADDOX RFB",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 690,
+      "rpm": 723,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -458,23 +478,27 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 13,
+              "dano": 28
+            },
+            {
+              "hasta": 32,
+              "dano": 23
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 19
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 32,
+            "Cuello": 28,
+            "Torso superior": 28,
+            "Brazos": 28,
+            "Abdomen": 28,
+            "Manos": 28,
+            "Piernas": 28,
+            "Pies": 28
           }
         },
         "wz": {
@@ -504,11 +528,11 @@
           }
         }
       },
-      "ads": 240,
-      "sprint": 180,
-      "velocidad": 905,
-      "cargador": 30,
-      "recarga": 2431,
+      "ads": 260,
+      "sprint": 190,
+      "velocidad": 650,
+      "cargador": 40,
+      "recarga": 2860,
       "notas": "",
       "dual": "no",
       "rpmInicial": 0,
@@ -518,7 +542,7 @@
       "id": "w1787835805151p98t",
       "nombre": "M15 MOD 0",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
       "rpm": 769,
       "pellets": 1,
@@ -529,22 +553,26 @@
           "tramos": [
             {
               "hasta": 30,
-              "dano": 30
+              "dano": 21
+            },
+            {
+              "hasta": 46,
+              "dano": 18
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 17
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 27,
+            "Cuello": 21,
+            "Torso superior": 21,
+            "Brazos": 21,
+            "Abdomen": 21,
+            "Manos": 21,
+            "Piernas": 21,
+            "Pies": 21
           }
         },
         "wz": {
@@ -574,11 +602,11 @@
           }
         }
       },
-      "ads": 235,
-      "sprint": 199,
-      "velocidad": 920,
+      "ads": 250,
+      "sprint": 210,
+      "velocidad": 730,
       "cargador": 30,
-      "recarga": 2550,
+      "recarga": 3000,
       "notas": "",
       "dual": "no",
       "rpmInicial": 0,
@@ -588,9 +616,9 @@
       "id": "w1787835858145gjmx",
       "nombre": "AK-27",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 690,
+      "rpm": 682,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -598,23 +626,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 17,
+              "dano": 28
+            },
+            {
+              "hasta": 23,
+              "dano": 26
+            },
+            {
+              "hasta": 51,
+              "dano": 22
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 18
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 37,
+            "Cuello": 28,
+            "Torso superior": 28,
+            "Brazos": 28,
+            "Abdomen": 28,
+            "Manos": 28,
+            "Piernas": 28,
+            "Pies": 28
           }
         },
         "wz": {
@@ -644,11 +680,11 @@
           }
         }
       },
-      "ads": 240,
-      "sprint": 190,
-      "velocidad": 900,
+      "ads": 260,
+      "sprint": 250,
+      "velocidad": 700,
       "cargador": 30,
-      "recarga": 2465,
+      "recarga": 2900,
       "notas": "",
       "dual": "no",
       "rpmInicial": 0,
@@ -658,7 +694,7 @@
       "id": "w1787835884673scet",
       "nombre": "MXR-17",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
       "rpm": 500,
       "pellets": 1,
@@ -668,23 +704,27 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 33,
+              "dano": 32
+            },
+            {
+              "hasta": 52,
+              "dano": 31
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 24
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 38,
+            "Cuello": 35,
+            "Torso superior": 35,
+            "Brazos": 32,
+            "Abdomen": 32,
+            "Manos": 32,
+            "Piernas": 32,
+            "Pies": 32
           }
         },
         "wz": {
@@ -714,11 +754,11 @@
           }
         }
       },
-      "ads": 245,
+      "ads": 240,
       "sprint": 200,
-      "velocidad": 880,
-      "cargador": 30,
-      "recarga": 2266,
+      "velocidad": 780,
+      "cargador": 25,
+      "recarga": 2667,
       "notas": "",
       "dual": "no",
       "rpmInicial": 0,
@@ -728,9 +768,9 @@
       "id": "w1787836004026jbm6",
       "nombre": "X9 MAVERICK",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Ráfaga",
-      "rpm": 479,
+      "rpm": 464,
       "pellets": 1,
       "burstN": 3,
       "burstDelay": 150,
@@ -738,23 +778,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 20,
+              "dano": 33
+            },
+            {
+              "hasta": 33,
+              "dano": 31
+            },
+            {
+              "hasta": 46,
+              "dano": 29
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 22
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 42,
+            "Cuello": 34,
+            "Torso superior": 34,
+            "Brazos": 34,
+            "Abdomen": 33,
+            "Manos": 33,
+            "Piernas": 33,
+            "Pies": 33
           }
         },
         "wz": {
@@ -784,11 +832,11 @@
           }
         }
       },
-      "ads": 245,
-      "sprint": 195,
-      "velocidad": 900,
+      "ads": 260,
+      "sprint": 200,
+      "velocidad": 760,
       "cargador": 30,
-      "recarga": 3230,
+      "recarga": 3800,
       "notas": "",
       "dual": "no",
       "rpmInicial": 0,
@@ -798,9 +846,9 @@
       "id": "w17878368934774n07",
       "nombre": "DS20 MIRAGE",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 606,
+      "rpm": 625,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -808,23 +856,27 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 25,
+              "dano": 28
+            },
+            {
+              "hasta": 44,
+              "dano": 23
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 22
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 36,
+            "Cuello": 28,
+            "Torso superior": 28,
+            "Brazos": 28,
+            "Abdomen": 28,
+            "Manos": 28,
+            "Piernas": 28,
+            "Pies": 28
           }
         },
         "wz": {
@@ -854,11 +906,11 @@
           }
         }
       },
-      "ads": 230,
-      "sprint": 178,
-      "velocidad": 900,
+      "ads": 270,
+      "sprint": 220,
+      "velocidad": 720,
       "cargador": 30,
-      "recarga": 2323,
+      "recarga": 2733,
       "notas": "",
       "dual": "no",
       "rpmInicial": 0,
@@ -868,9 +920,9 @@
       "id": "w178783695401519ic",
       "nombre": "PEACEKEEPER MK.1",
       "categoria": "Fusil de asalto",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 870,
+      "rpm": 857,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -878,23 +930,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 15,
+              "dano": 23
+            },
+            {
+              "hasta": 25,
+              "dano": 22
+            },
+            {
+              "hasta": 39,
+              "dano": 18
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 15
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 28,
+            "Cuello": 23,
+            "Torso superior": 23,
+            "Brazos": 23,
+            "Abdomen": 23,
+            "Manos": 23,
+            "Piernas": 23,
+            "Pies": 23
           }
         },
         "wz": {
@@ -924,11 +984,11 @@
           }
         }
       },
-      "ads": 230,
-      "sprint": 160,
-      "velocidad": 900,
+      "ads": 225,
+      "sprint": 170,
+      "velocidad": 630,
       "cargador": 30,
-      "recarga": 2295,
+      "recarga": 2700,
       "notas": "",
       "dual": "no",
       "rpmInicial": 0,
@@ -938,7 +998,7 @@
       "id": "w17888602306613w4c",
       "nombre": "GREMLIN",
       "categoria": "Subfusil",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
       "rpm": 1071,
       "pellets": 1,
@@ -951,23 +1011,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 13,
+              "dano": 12
+            },
+            {
+              "hasta": 20,
+              "dano": 11
+            },
+            {
+              "hasta": 34,
+              "dano": 10
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 9
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 13,
+            "Cuello": 12,
+            "Torso superior": 12,
+            "Brazos": 12,
+            "Abdomen": 12,
+            "Manos": 12,
+            "Piernas": 12,
+            "Pies": 12
           }
         },
         "wz": {
@@ -997,10 +1065,10 @@
           }
         }
       },
-      "ads": 160,
-      "sprint": 103,
+      "ads": 210,
+      "sprint": 120,
       "velocidad": 510,
-      "cargador": 35,
+      "cargador": 26,
       "recarga": 2528,
       "notas": ""
     },
@@ -1008,7 +1076,7 @@
       "id": "w1788860303341owjd",
       "nombre": "CBRS-3",
       "categoria": "Subfusil",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
       "rpm": 720,
       "pellets": 1,
@@ -1021,23 +1089,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 15,
+              "dano": 29
+            },
+            {
+              "hasta": 25,
+              "dano": 23
+            },
+            {
+              "hasta": 34,
+              "dano": 19
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 16
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 34,
+            "Cuello": 29,
+            "Torso superior": 29,
+            "Brazos": 29,
+            "Abdomen": 29,
+            "Manos": 29,
+            "Piernas": 29,
+            "Pies": 29
           }
         },
         "wz": {
@@ -1067,20 +1143,20 @@
           }
         }
       },
-      "ads": 160,
-      "sprint": 120,
+      "ads": 210,
+      "sprint": 140,
       "velocidad": 590,
       "cargador": 60,
-      "recarga": 2848,
+      "recarga": 3560,
       "notas": ""
     },
     {
       "id": "w1788860416718llna",
       "nombre": "VST",
       "categoria": "Subfusil",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 1091,
+      "rpm": 1053,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -1091,23 +1167,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 8,
+              "dano": 20
+            },
+            {
+              "hasta": 12,
+              "dano": 18
+            },
+            {
+              "hasta": 23,
+              "dano": 15
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 12
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 23,
+            "Cuello": 20,
+            "Torso superior": 20,
+            "Brazos": 20,
+            "Abdomen": 20,
+            "Manos": 20,
+            "Piernas": 20,
+            "Pies": 20
           }
         },
         "wz": {
@@ -1137,20 +1221,20 @@
           }
         }
       },
-      "ads": 155,
-      "sprint": 100,
+      "ads": 190,
+      "sprint": 110,
       "velocidad": 520,
       "cargador": 30,
-      "recarga": 2184,
+      "recarga": 2730,
       "notas": ""
     },
     {
       "id": "w1788860466579aqgc",
       "nombre": "REV-46",
       "categoria": "Subfusil",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 1154,
+      "rpm": 1111,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -1161,23 +1245,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 14,
+              "dano": 17
+            },
+            {
+              "hasta": 25,
+              "dano": 15
+            },
+            {
+              "hasta": 34,
+              "dano": 12
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 11
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 21,
+            "Cuello": 17,
+            "Torso superior": 17,
+            "Brazos": 17,
+            "Abdomen": 17,
+            "Manos": 17,
+            "Piernas": 17,
+            "Pies": 17
           }
         },
         "wz": {
@@ -1207,20 +1299,20 @@
           }
         }
       },
-      "ads": 160,
-      "sprint": 105,
-      "velocidad": 620,
+      "ads": 190,
+      "sprint": 120,
+      "velocidad": 540,
       "cargador": 35,
-      "recarga": 2233,
+      "recarga": 2900,
       "notas": ""
     },
     {
       "id": "w1788860510549la8e",
       "nombre": "STURMWOLF",
       "categoria": "Subfusil",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 645,
+      "rpm": 667,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -1231,16 +1323,24 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
+              "hasta": 11,
               "dano": 30
             },
             {
+              "hasta": 18,
+              "dano": 23
+            },
+            {
+              "hasta": 26,
+              "dano": 19
+            },
+            {
               "hasta": 9999,
-              "dano": 25
+              "dano": 16
             }
           ],
           "zonas": {
-            "Cabeza": 30,
+            "Cabeza": 37,
             "Cuello": 30,
             "Torso superior": 30,
             "Brazos": 30,
@@ -1277,20 +1377,20 @@
           }
         }
       },
-      "ads": 160,
-      "sprint": 130,
+      "ads": 220,
+      "sprint": 150,
       "velocidad": 540,
       "cargador": 32,
-      "recarga": 2184,
+      "recarga": 2730,
       "notas": ""
     },
     {
       "id": "w1788860572296q5hc",
       "nombre": "KOGOT-7",
       "categoria": "Subfusil",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 968,
+      "rpm": 952,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -1301,23 +1401,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 12,
+              "dano": 21
+            },
+            {
+              "hasta": 19,
+              "dano": 18
+            },
+            {
+              "hasta": 25,
+              "dano": 15
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 12
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 25,
+            "Cuello": 21,
+            "Torso superior": 21,
+            "Brazos": 21,
+            "Abdomen": 21,
+            "Manos": 21,
+            "Piernas": 21,
+            "Pies": 21
           }
         },
         "wz": {
@@ -1347,20 +1455,20 @@
           }
         }
       },
-      "ads": 170,
-      "sprint": 110,
+      "ads": 200,
+      "sprint": 125,
       "velocidad": 540,
       "cargador": 30,
-      "recarga": 2288,
+      "recarga": 2860,
       "notas": ""
     },
     {
       "id": "w1788860617059h8jj",
       "nombre": "RYDEN 45K",
       "categoria": "Subfusil",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 923,
+      "rpm": 909,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -1371,23 +1479,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 12,
+              "dano": 22
+            },
+            {
+              "hasta": 18,
+              "dano": 21
+            },
+            {
+              "hasta": 34,
+              "dano": 15
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 13
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 27,
+            "Cuello": 22,
+            "Torso superior": 22,
+            "Brazos": 22,
+            "Abdomen": 22,
+            "Manos": 22,
+            "Piernas": 22,
+            "Pies": 22
           }
         },
         "wz": {
@@ -1417,20 +1533,20 @@
           }
         }
       },
-      "ads": 160,
-      "sprint": 102,
+      "ads": 195,
+      "sprint": 130,
       "velocidad": 530,
       "cargador": 30,
-      "recarga": 2346,
+      "recarga": 2933,
       "notas": ""
     },
     {
       "id": "w1788860665599lxu3",
       "nombre": "RK-9",
       "categoria": "Subfusil",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Ráfaga",
-      "rpm": 570,
+      "rpm": 556,
       "pellets": 1,
       "burstN": 3,
       "burstDelay": 125,
@@ -1441,23 +1557,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
+              "hasta": 10,
+              "dano": 32
+            },
+            {
+              "hasta": 22,
               "dano": 30
             },
             {
+              "hasta": 30,
+              "dano": 23
+            },
+            {
               "hasta": 9999,
-              "dano": 25
+              "dano": 18
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 40,
+            "Cuello": 34,
+            "Torso superior": 34,
+            "Brazos": 32,
+            "Abdomen": 32,
+            "Manos": 32,
+            "Piernas": 32,
+            "Pies": 32
           }
         },
         "wz": {
@@ -1487,18 +1611,18 @@
           }
         }
       },
-      "ads": 165,
+      "ads": 190,
       "sprint": 120,
       "velocidad": 600,
       "cargador": 30,
-      "recarga": 2293,
+      "recarga": 2867,
       "notas": ""
     },
     {
       "id": "w1788861138254flcu",
       "nombre": "RAZOR 9 MM",
       "categoria": "Subfusil",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
       "rpm": 1000,
       "pellets": 1,
@@ -1511,23 +1635,31 @@
         "mp": {
           "tramos": [
             {
+              "hasta": 13,
+              "dano": 21
+            },
+            {
+              "hasta": 20,
+              "dano": 18
+            },
+            {
               "hasta": 30,
-              "dano": 30
+              "dano": 14
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 12
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 26,
+            "Cuello": 21,
+            "Torso superior": 21,
+            "Brazos": 21,
+            "Abdomen": 21,
+            "Manos": 21,
+            "Piernas": 21,
+            "Pies": 21
           }
         },
         "wz": {
@@ -1557,18 +1689,18 @@
           }
         }
       },
-      "ads": 175,
-      "sprint": 103,
+      "ads": 210,
+      "sprint": 150,
       "velocidad": 500,
       "cargador": 30,
-      "recarga": 2208,
+      "recarga": 2760,
       "notas": ""
     },
     {
       "id": "w17888612007013trw",
       "nombre": "DRAVEC 45",
       "categoria": "Subfusil",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
       "rpm": 625,
       "pellets": 1,
@@ -1581,23 +1713,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 11,
+              "dano": 26
+            },
+            {
+              "hasta": 18,
+              "dano": 21
+            },
+            {
+              "hasta": 27,
+              "dano": 17
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 15
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 33,
+            "Cuello": 26,
+            "Torso superior": 26,
+            "Brazos": 26,
+            "Abdomen": 26,
+            "Manos": 26,
+            "Piernas": 26,
+            "Pies": 26
           }
         },
         "wz": {
@@ -1627,20 +1767,20 @@
           }
         }
       },
-      "ads": 170,
-      "sprint": 125,
-      "velocidad": 480,
+      "ads": 235,
+      "sprint": 170,
+      "velocidad": 610,
       "cargador": 36,
-      "recarga": 2080,
+      "recarga": 2600,
       "notas": ""
     },
     {
       "id": "w17888612488948i0n",
       "nombre": "CARBON 57",
       "categoria": "Subfusil",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 857,
+      "rpm": 833,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -1651,23 +1791,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 15,
+              "dano": 24
+            },
+            {
+              "hasta": 25,
+              "dano": 19
+            },
+            {
+              "hasta": 36,
+              "dano": 16
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 14
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 27,
+            "Cuello": 24,
+            "Torso superior": 24,
+            "Brazos": 24,
+            "Abdomen": 24,
+            "Manos": 24,
+            "Piernas": 24,
+            "Pies": 24
           }
         },
         "wz": {
@@ -1697,20 +1845,20 @@
           }
         }
       },
-      "ads": 175,
-      "sprint": 113,
+      "ads": 240,
+      "sprint": 170,
       "velocidad": 550,
-      "cargador": 40,
-      "recarga": 2560,
+      "cargador": 50,
+      "recarga": 3200,
       "notas": ""
     },
     {
       "id": "w17888612956581o0s",
       "nombre": "MPC-25",
       "categoria": "Subfusil",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 706,
+      "rpm": 750,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -1721,16 +1869,24 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
+              "hasta": 10,
               "dano": 30
             },
             {
+              "hasta": 15,
+              "dano": 23
+            },
+            {
+              "hasta": 26,
+              "dano": 19
+            },
+            {
               "hasta": 9999,
-              "dano": 25
+              "dano": 16
             }
           ],
           "zonas": {
-            "Cabeza": 30,
+            "Cabeza": 34,
             "Cuello": 30,
             "Torso superior": 30,
             "Brazos": 30,
@@ -1767,20 +1923,20 @@
           }
         }
       },
-      "ads": 165,
-      "sprint": 120,
+      "ads": 180,
+      "sprint": 110,
       "velocidad": 520,
       "cargador": 30,
-      "recarga": 2026,
+      "recarga": 2533,
       "notas": ""
     },
     {
       "id": "w178886188668864b5",
       "nombre": "MAMMOTH",
       "categoria": "Ametralladora ligera",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 366,
+      "rpm": 408,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -1791,23 +1947,27 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 41,
+              "dano": 46
+            },
+            {
+              "hasta": 58,
+              "dano": 44
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 42
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 59,
+            "Cuello": 50,
+            "Torso superior": 50,
+            "Brazos": 46,
+            "Abdomen": 46,
+            "Manos": 46,
+            "Piernas": 46,
+            "Pies": 46
           }
         },
         "wz": {
@@ -1837,9 +1997,9 @@
           }
         }
       },
-      "ads": 295,
+      "ads": 450,
       "sprint": 270,
-      "velocidad": 870,
+      "velocidad": 810,
       "cargador": 50,
       "recarga": 4733,
       "notas": ""
@@ -1848,9 +2008,9 @@
       "id": "w1788861932062gb1x",
       "nombre": "SOKOL 545",
       "categoria": "Ametralladora ligera",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 533,
+      "rpm": 583,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -1861,23 +2021,27 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 51,
+              "dano": 32
+            },
+            {
+              "hasta": 71,
+              "dano": 31
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 24
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 38,
+            "Cuello": 38,
+            "Torso superior": 35,
+            "Brazos": 32,
+            "Abdomen": 32,
+            "Manos": 32,
+            "Piernas": 32,
+            "Pies": 32
           }
         },
         "wz": {
@@ -1907,20 +2071,20 @@
           }
         }
       },
-      "ads": 285,
+      "ads": 420,
       "sprint": 235,
-      "velocidad": 890,
+      "velocidad": 740,
       "cargador": 102,
-      "recarga": 4986,
+      "recarga": 7333,
       "notas": ""
     },
     {
       "id": "w17888619869983xth",
       "nombre": "MK.78",
       "categoria": "Ametralladora ligera",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 652,
+      "rpm": 685,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -1931,23 +2095,27 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 41,
+              "dano": 31
+            },
+            {
+              "hasta": 61,
+              "dano": 24
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 23
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 37,
+            "Cuello": 31,
+            "Torso superior": 31,
+            "Brazos": 31,
+            "Abdomen": 31,
+            "Manos": 31,
+            "Piernas": 31,
+            "Pies": 31
           }
         },
         "wz": {
@@ -1977,20 +2145,20 @@
           }
         }
       },
-      "ads": 250,
-      "sprint": 230,
-      "velocidad": 890,
+      "ads": 440,
+      "sprint": 250,
+      "velocidad": 800,
       "cargador": 75,
-      "recarga": 4372,
+      "recarga": 6430,
       "notas": ""
     },
     {
       "id": "w1788862056582d66n",
       "nombre": "XM325",
       "categoria": "Ametralladora ligera",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Automático",
-      "rpm": 1000,
+      "rpm": 1020,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -2001,23 +2169,27 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 36,
+              "dano": 23
+            },
+            {
+              "hasta": 51,
+              "dano": 18
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 16
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 29,
+            "Cuello": 23,
+            "Torso superior": 23,
+            "Brazos": 23,
+            "Abdomen": 23,
+            "Manos": 23,
+            "Piernas": 23,
+            "Pies": 23
           }
         },
         "wz": {
@@ -2043,20 +2215,20 @@
           }
         }
       },
-      "ads": 245,
+      "ads": 390,
       "sprint": 220,
-      "velocidad": 920,
+      "velocidad": 750,
       "cargador": 60,
-      "recarga": 4586,
+      "recarga": 5733,
       "notas": ""
     },
     {
       "id": "w1788862713744yuuo",
       "nombre": "KRS-7,62",
       "categoria": "Fusil táctico",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Semiautomático",
-      "rpm": 200,
+      "rpm": 364,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -2067,23 +2239,27 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 36,
+              "dano": 65
+            },
+            {
+              "hasta": 52,
+              "dano": 42
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 39
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 91,
+            "Cuello": 84,
+            "Torso superior": 84,
+            "Brazos": 65,
+            "Abdomen": 65,
+            "Manos": 65,
+            "Piernas": 65,
+            "Pies": 65
           }
         },
         "wz": {
@@ -2113,9 +2289,9 @@
           }
         }
       },
-      "ads": 340,
+      "ads": 330,
       "sprint": 250,
-      "velocidad": 600,
+      "velocidad": 875,
       "cargador": 10,
       "recarga": 3233,
       "notas": ""
@@ -2124,9 +2300,9 @@
       "id": "w1788862803437kzs6",
       "nombre": "SWORDFISH A1",
       "categoria": "Fusil táctico",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Ráfaga",
-      "rpm": 488,
+      "rpm": 451,
       "pellets": 1,
       "burstN": 4,
       "burstDelay": 12,
@@ -2137,23 +2313,23 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 38,
+              "dano": 31
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 27
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 40,
+            "Cuello": 37,
+            "Torso superior": 37,
+            "Brazos": 31,
+            "Abdomen": 31,
+            "Manos": 31,
+            "Piernas": 31,
+            "Pies": 31
           }
         },
         "wz": {
@@ -2179,18 +2355,18 @@
           }
         }
       },
-      "ads": 250,
-      "sprint": 250,
-      "velocidad": 600,
-      "cargador": 30,
-      "recarga": 2000,
+      "ads": 340,
+      "sprint": 240,
+      "velocidad": 780,
+      "cargador": 36,
+      "recarga": 3160,
       "notas": ""
     },
     {
       "id": "w1788863468229sdi3",
       "nombre": "M8A1",
       "categoria": "Fusil táctico",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Ráfaga",
       "rpm": 591,
       "pellets": 1,
@@ -2203,17 +2379,21 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
+              "hasta": 36,
               "dano": 30
             },
             {
+              "hasta": 48,
+              "dano": 29
+            },
+            {
               "hasta": 9999,
-              "dano": 25
+              "dano": 24
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
+            "Cabeza": 34,
+            "Cuello": 34,
             "Torso superior": 30,
             "Brazos": 30,
             "Abdomen": 30,
@@ -2245,18 +2425,18 @@
           }
         }
       },
-      "ads": 265,
-      "sprint": 200,
-      "velocidad": 900,
+      "ads": 310,
+      "sprint": 220,
+      "velocidad": 850,
       "cargador": 32,
-      "recarga": 2877,
+      "recarga": 3467,
       "notas": ""
     },
     {
       "id": "w1788863651311f835",
       "nombre": "M34 NOVALINE",
       "categoria": "Fusil táctico",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Ráfaga",
       "rpm": 235,
       "pellets": 1,
@@ -2269,23 +2449,23 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 66,
+              "dano": 50
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 40
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 65,
+            "Cuello": 50,
+            "Torso superior": 50,
+            "Brazos": 50,
+            "Abdomen": 50,
+            "Manos": 50,
+            "Piernas": 50,
+            "Pies": 50
           }
         },
         "wz": {
@@ -2315,20 +2495,20 @@
           }
         }
       },
-      "ads": 300,
+      "ads": 350,
       "sprint": 250,
-      "velocidad": 885,
+      "velocidad": 800,
       "cargador": 20,
-      "recarga": 2545,
+      "recarga": 3067,
       "notas": ""
     },
     {
       "id": "w17888639606003g3h",
       "nombre": "WARDEN 308",
       "categoria": "Fusil táctico",
-      "juego": "Warzone",
+      "juego": "Ambos",
       "modo": "Semiautomático",
-      "rpm": 300,
+      "rpm": 550,
       "pellets": 1,
       "burstN": 0,
       "burstDelay": 0,
@@ -2339,23 +2519,31 @@
         "mp": {
           "tramos": [
             {
-              "hasta": 30,
-              "dano": 30
+              "hasta": 32,
+              "dano": 75
+            },
+            {
+              "hasta": 42,
+              "dano": 72
+            },
+            {
+              "hasta": 57,
+              "dano": 71
             },
             {
               "hasta": 9999,
-              "dano": 25
+              "dano": 45
             }
           ],
           "zonas": {
-            "Cabeza": 30,
-            "Cuello": 30,
-            "Torso superior": 30,
-            "Brazos": 30,
-            "Abdomen": 30,
-            "Manos": 30,
-            "Piernas": 30,
-            "Pies": 30
+            "Cabeza": 108,
+            "Cuello": 104,
+            "Torso superior": 101,
+            "Brazos": 75,
+            "Abdomen": 75,
+            "Manos": 75,
+            "Piernas": 75,
+            "Pies": 75
           }
         },
         "wz": {
@@ -2385,11 +2573,11 @@
           }
         }
       },
-      "ads": 270,
+      "ads": 365,
       "sprint": 240,
-      "velocidad": 600,
+      "velocidad": 910,
       "cargador": 8,
-      "recarga": 2378,
+      "recarga": 4100,
       "notas": ""
     }
   ]
