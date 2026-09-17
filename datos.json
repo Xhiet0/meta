@@ -3055,6 +3055,174 @@
           "notas": ""
         }
       }
+    },
+    {
+      "id": "w1789662418325a91j",
+      "nombre": "VMP",
+      "categoria": "Subfusil",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        },
+        "wz": {
+          "rpm": 952,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 160,
+          "sprint": 100,
+          "velocidad": 540,
+          "cargador": 40,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 13,
+              "dano": 33
+            },
+            {
+              "hasta": 23,
+              "dano": 28
+            },
+            {
+              "hasta": 9999,
+              "dano": 22
+            }
+          ],
+          "zonas": {
+            "Cabeza": 41,
+            "Cuello": 33,
+            "Torso superior": 33,
+            "Brazos": 33,
+            "Abdomen": 29,
+            "Manos": 33,
+            "Piernas": 29,
+            "Pies": 29
+          }
+        }
+      }
+    },
+    {
+      "id": "w1789662490198qftd",
+      "nombre": "TR51 PARA",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        },
+        "wz": {
+          "rpm": 652,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Semiautomático",
+          "ads": 235,
+          "sprint": 210,
+          "velocidad": 890,
+          "cargador": 25,
+          "recarga": 2266,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 32,
+              "dano": 66
+            },
+            {
+              "hasta": 55,
+              "dano": 55
+            },
+            {
+              "hasta": 9999,
+              "dano": 52
+            }
+          ],
+          "zonas": {
+            "Cabeza": 79,
+            "Cuello": 60,
+            "Torso superior": 60,
+            "Brazos": 60,
+            "Abdomen": 52,
+            "Manos": 60,
+            "Piernas": 52,
+            "Pies": 52
+          }
+        }
+      }
     }
   ]
 }
