@@ -157,27 +157,27 @@
         "wz": {
           "tramos": [
             {
-              "hasta": 53,
-              "dano": 41
+              "hasta": 38,
+              "dano": 38
             },
             {
-              "hasta": 71,
-              "dano": 37
+              "hasta": 52,
+              "dano": 34
             },
             {
               "hasta": 9999,
-              "dano": 33
+              "dano": 31
             }
           ],
           "zonas": {
-            "Cabeza": 53,
-            "Cuello": 41,
-            "Torso superior": 41,
-            "Brazos": 41,
-            "Abdomen": 36,
-            "Manos": 41,
-            "Piernas": 36,
-            "Pies": 36
+            "Cabeza": 45,
+            "Cuello": 38,
+            "Torso superior": 38,
+            "Brazos": 38,
+            "Abdomen": 34,
+            "Manos": 38,
+            "Piernas": 34,
+            "Pies": 34
           },
           "rpm": 645,
           "pellets": 1,
@@ -187,8 +187,8 @@
           "rpmInicial": 1200,
           "balasIniciales": 3,
           "modo": "Automático",
-          "ads": 235,
-          "sprint": 312,
+          "ads": 245,
+          "sprint": 257,
           "velocidad": 920,
           "cargador": 30,
           "recarga": 2720,
@@ -254,7 +254,7 @@
             },
             {
               "hasta": 55,
-              "dano": 23
+              "dano": 24
             },
             {
               "hasta": 9999,
@@ -333,27 +333,27 @@
         "wz": {
           "tramos": [
             {
-              "hasta": 45,
-              "dano": 39
+              "hasta": 42,
+              "dano": 38
             },
             {
-              "hasta": 61,
+              "hasta": 58,
               "dano": 35
             },
             {
               "hasta": 9999,
-              "dano": 31
+              "dano": 29
             }
           ],
           "zonas": {
-            "Cabeza": 46,
-            "Cuello": 37,
-            "Torso superior": 37,
-            "Brazos": 37,
-            "Abdomen": 31,
-            "Manos": 37,
-            "Piernas": 31,
-            "Pies": 31
+            "Cabeza": 45,
+            "Cuello": 36,
+            "Torso superior": 36,
+            "Brazos": 36,
+            "Abdomen": 30,
+            "Manos": 36,
+            "Piernas": 30,
+            "Pies": 30
           },
           "rpm": 750,
           "pellets": 1,
@@ -422,26 +422,26 @@
           "tramos": [
             {
               "hasta": 41,
-              "dano": 38
+              "dano": 42
             },
             {
               "hasta": 60,
-              "dano": 34
+              "dano": 37
             },
             {
               "hasta": 9999,
-              "dano": 30
+              "dano": 32
             }
           ],
           "zonas": {
-            "Cabeza": 49,
-            "Cuello": 38,
-            "Torso superior": 38,
-            "Brazos": 38,
-            "Abdomen": 38,
-            "Manos": 38,
-            "Piernas": 38,
-            "Pies": 38
+            "Cabeza": 54,
+            "Cuello": 42,
+            "Torso superior": 42,
+            "Brazos": 42,
+            "Abdomen": 42,
+            "Manos": 42,
+            "Piernas": 42,
+            "Pies": 42
           },
           "rpm": 659,
           "pellets": 1,
@@ -509,12 +509,12 @@
         "wz": {
           "tramos": [
             {
-              "hasta": 42,
-              "dano": 35
+              "hasta": 46,
+              "dano": 36
             },
             {
-              "hasta": 60,
-              "dano": 31
+              "hasta": 66,
+              "dano": 32
             },
             {
               "hasta": 9999,
@@ -522,14 +522,14 @@
             }
           ],
           "zonas": {
-            "Cabeza": 42,
-            "Cuello": 35,
-            "Torso superior": 35,
-            "Brazos": 35,
-            "Abdomen": 31,
-            "Manos": 35,
-            "Piernas": 31,
-            "Pies": 31
+            "Cabeza": 43,
+            "Cuello": 36,
+            "Torso superior": 36,
+            "Brazos": 36,
+            "Abdomen": 32,
+            "Manos": 36,
+            "Piernas": 32,
+            "Pies": 32
           },
           "rpm": 811,
           "pellets": 1,
@@ -685,20 +685,20 @@
         "wz": {
           "tramos": [
             {
-              "hasta": 45,
+              "hasta": 42,
               "dano": 33
             },
             {
-              "hasta": 64,
-              "dano": 26
+              "hasta": 60,
+              "dano": 27
             },
             {
               "hasta": 9999,
-              "dano": 24
+              "dano": 25
             }
           ],
           "zonas": {
-            "Cabeza": 43,
+            "Cabeza": 46,
             "Cuello": 36,
             "Torso superior": 36,
             "Brazos": 36,
@@ -1413,27 +1413,27 @@
         "wz": {
           "tramos": [
             {
-              "hasta": 14,
-              "dano": 29
-            },
-            {
-              "hasta": 23,
+              "hasta": 13,
               "dano": 27
             },
             {
+              "hasta": 23,
+              "dano": 24
+            },
+            {
               "hasta": 9999,
-              "dano": 22
+              "dano": 19
             }
           ],
           "zonas": {
-            "Cabeza": 32,
-            "Cuello": 29,
-            "Torso superior": 29,
-            "Brazos": 29,
-            "Abdomen": 24,
-            "Manos": 29,
-            "Piernas": 24,
-            "Pies": 24
+            "Cabeza": 30,
+            "Cuello": 27,
+            "Torso superior": 27,
+            "Brazos": 27,
+            "Abdomen": 22,
+            "Manos": 27,
+            "Piernas": 22,
+            "Pies": 22
           },
           "rpm": 1091,
           "pellets": 1,
@@ -1505,7 +1505,7 @@
         "wz": {
           "tramos": [
             {
-              "hasta": 13,
+              "hasta": 12,
               "dano": 26
             },
             {
@@ -1598,7 +1598,7 @@
           "tramos": [
             {
               "hasta": 14,
-              "dano": 47
+              "dano": 48
             },
             {
               "hasta": 23,
@@ -1610,14 +1610,14 @@
             }
           ],
           "zonas": {
-            "Cabeza": 52,
-            "Cuello": 47,
-            "Torso superior": 47,
-            "Brazos": 39,
-            "Abdomen": 39,
-            "Manos": 39,
-            "Piernas": 39,
-            "Pies": 39
+            "Cabeza": 53,
+            "Cuello": 48,
+            "Torso superior": 48,
+            "Brazos": 40,
+            "Abdomen": 40,
+            "Manos": 40,
+            "Piernas": 40,
+            "Pies": 40
           },
           "rpm": 645,
           "pellets": 1,
@@ -2241,7 +2241,7 @@
         "wz": {
           "tramos": [
             {
-              "hasta": 13,
+              "hasta": 14,
               "dano": 42
             },
             {
@@ -2418,7 +2418,7 @@
           "tramos": [
             {
               "hasta": 45,
-              "dano": 44
+              "dano": 47
             },
             {
               "hasta": 62,
@@ -2430,14 +2430,14 @@
             }
           ],
           "zonas": {
-            "Cabeza": 52,
-            "Cuello": 44,
-            "Torso superior": 44,
-            "Brazos": 44,
-            "Abdomen": 44,
-            "Manos": 44,
-            "Piernas": 44,
-            "Pies": 44
+            "Cabeza": 56,
+            "Cuello": 47,
+            "Torso superior": 47,
+            "Brazos": 47,
+            "Abdomen": 47,
+            "Manos": 47,
+            "Piernas": 47,
+            "Pies": 47
           },
           "rpm": 533,
           "pellets": 1,
@@ -2514,7 +2514,7 @@
             },
             {
               "hasta": 9999,
-              "dano": 28
+              "dano": 29
             }
           ],
           "zonas": {
@@ -2602,7 +2602,7 @@
             }
           ],
           "zonas": {
-            "Cabeza": 31,
+            "Cabeza": 33,
             "Cuello": 27,
             "Torso superior": 27,
             "Brazos": 27,
