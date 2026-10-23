@@ -164,7 +164,7 @@ details summary{cursor:pointer;font-family:var(--display);font-size:13px;letter-
             <label>Modo de juego</label>
             <div class="seg" id="modeSeg">
               <button data-m="wz" aria-pressed="true">Warzone</button>
-              <button data-m="mp" aria-pressed="false">Black Ops 7</button>
+              <button data-m="mp" aria-pressed="false">Modern Warfare 4</button>
             </div>
           </div>
           <div>
@@ -264,12 +264,14 @@ let sortDist=null, sortDir=1;   // distancia por la que se ordena la tabla, y se
    los cambios que haga se quedan en su ordenador y no afectan a la web publicada. */
 const ADMIN=/(^|[?&#])editor(=|&|$)/.test(location.search+location.hash);
 
-/* MODOS_JUEGO es el valor que va guardado en cada arma (no se toca, o se
-   romperían los datos ya metidos). ETIQUETA es lo que se muestra en pantalla. */
-const MODOS_JUEGO={mp:'Black Ops 7', wz:'Warzone'};
-const ETIQUETA={mp:'Black Ops 7', wz:'Warzone'};
+/* MODOS_JUEGO es el valor que va guardado en cada arma; ETIQUETA, lo que se
+   muestra en pantalla. ALIAS_MP recoge los nombres que tuvo antes este modo,
+   para que las armas ya marcadas no se queden huérfanas al renombrarlo. */
+const MODOS_JUEGO={mp:'Modern Warfare 4', wz:'Warzone'};
+const ETIQUETA={mp:'Modern Warfare 4', wz:'Warzone'};
+const ALIAS_MP=['Multijugador','Black Ops 7'];
 
-/* Todo lo que puede cambiar entre Warzone y Black Ops 7 vive dentro del perfil.
+/* Todo lo que puede cambiar entre Warzone y Modern Warfare 4 vive dentro del perfil.
    Fuera solo queda la identidad del arma: nombre, categoría y en qué modos existe. */
 const CAMPOS_PERFIL=['rpm','pellets','burstN','burstDelay','dual','rpmInicial','balasIniciales',
                      'modo','ads','sprint','velocidad','cargador','recarga','notas'];
@@ -416,7 +418,7 @@ function normaliza(d){
     });
     CAMPOS_PERFIL.forEach(c=>delete w[c]);   // ya no viven fuera del perfil
     w.juego=w.juego||'Ambos';
-    if(w.juego==='Multijugador') w.juego='Black Ops 7';   // nombre anterior del modo
+    if(ALIAS_MP.includes(w.juego)) w.juego=MODOS_JUEGO.mp;   // nombres anteriores del modo
     return w;
   });
   return d;
@@ -568,8 +570,12 @@ function drawChart(){
   const P={l:56,r:14,t:16,b:32}, iw=W-P.l-P.r, ih=H-P.t-P.b;
   const sel=selected.map(id=>db.armas.find(w=>w.id===id)).filter(Boolean);
   if(!sel.length){
-    ctx.fillStyle='#7C8B95'; ctx.font='12px monospace'; ctx.textAlign='center';
-    ctx.fillText('Marca armas en la lista para dibujar sus curvas',W/2,H/2);
+    ctx.textAlign='center';
+    ctx.fillStyle='#DCE4E8'; ctx.font='15px system-ui,sans-serif';
+    ctx.fillText('Elige armas para comparar',W/2,H/2-10);
+    ctx.fillStyle='#7C8B95'; ctx.font='12.5px monospace';
+    ctx.fillText('Marca el cuadro de cada una en la lista de la izquierda,',W/2,H/2+16);
+    ctx.fillText('o pulsa el nombre de una categoría para añadirlas todas',W/2,H/2+34);
     plot=null; $('legend').innerHTML=''; return;
   }
   let maxY=0;
@@ -1195,7 +1201,8 @@ $('btnPublish').onclick=()=>{
   toast('Sube datos.json junto a la web');
 };
 
-load().then(()=>{ selected=db.armas.filter(enModo).slice(0,2).map(w=>w.id); aplicarPermisos(); render(); });
+// Se abre sin nada seleccionado: elige el visitante qué comparar
+load().then(()=>{ selected=[]; aplicarPermisos(); render(); });
 </script>
 </body>
 </html>
