@@ -11,10 +11,10 @@
   ],
   "mezcla": {
     "Cabeza": 10,
-    "Cuello": 0,
-    "Torso superior": 35,
+    "Cuello": 5,
+    "Torso superior": 45,
     "Abdomen": 25,
-    "Brazos": 15,
+    "Brazos": 0,
     "Manos": 0,
     "Piernas": 10,
     "Pies": 5
@@ -3220,6 +3220,1698 @@
             "Manos": 60,
             "Piernas": 52,
             "Pies": 52
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792761257203l03d",
+      "nombre": "HAN 86",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 741,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 210,
+          "velocidad": 615,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 28,
+              "dano": 23
+            },
+            {
+              "hasta": 9999,
+              "dano": 19
+            }
+          ],
+          "zonas": {
+            "Cabeza": 28,
+            "Cuello": 25,
+            "Torso superior": 25,
+            "Brazos": 23,
+            "Abdomen": 23,
+            "Manos": 23,
+            "Piernas": 23,
+            "Pies": 23
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792761437575oub5",
+      "nombre": "M4",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 811,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 240,
+          "sprint": 210,
+          "velocidad": 590,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 25,
+              "dano": 23
+            },
+            {
+              "hasta": 9999,
+              "dano": 19
+            }
+          ],
+          "zonas": {
+            "Cabeza": 28,
+            "Cuello": 23,
+            "Torso superior": 23,
+            "Brazos": 23,
+            "Abdomen": 23,
+            "Manos": 23,
+            "Piernas": 23,
+            "Pies": 23
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792761485631yb38",
+      "nombre": "HYEON BURST",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 375,
+          "pellets": 1,
+          "burstN": 3,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Ráfaga",
+          "ads": 275,
+          "sprint": 210,
+          "velocidad": 775,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 21,
+              "dano": 31
+            },
+            {
+              "hasta": 43,
+              "dano": 24
+            },
+            {
+              "hasta": 9999,
+              "dano": 22
+            }
+          ],
+          "zonas": {
+            "Cabeza": 40,
+            "Cuello": 34,
+            "Torso superior": 34,
+            "Brazos": 31,
+            "Abdomen": 31,
+            "Manos": 31,
+            "Piernas": 31,
+            "Pies": 31
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792761685999as0a",
+      "nombre": "KASTOV 762",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 600,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 280,
+          "sprint": 210,
+          "velocidad": 560,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 24,
+              "dano": 30
+            },
+            {
+              "hasta": 40,
+              "dano": 24
+            },
+            {
+              "hasta": 9999,
+              "dano": 22
+            }
+          ],
+          "zonas": {
+            "Cabeza": 39,
+            "Cuello": 32,
+            "Torso superior": 32,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w17927620587492lic",
+      "nombre": "PATRIOT XMR",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 645,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 292,
+          "sprint": 210,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 31,
+              "dano": 30
+            },
+            {
+              "hasta": 50,
+              "dano": 24
+            },
+            {
+              "hasta": 9999,
+              "dano": 22
+            }
+          ],
+          "zonas": {
+            "Cabeza": 39,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792762107886053t",
+      "nombre": "ODEN",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 414,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 320,
+          "sprint": 210,
+          "velocidad": 690,
+          "cargador": 20,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 33,
+              "dano": 41
+            },
+            {
+              "hasta": 50,
+              "dano": 36
+            },
+            {
+              "hasta": 9999,
+              "dano": 32
+            }
+          ],
+          "zonas": {
+            "Cabeza": 57,
+            "Cuello": 49,
+            "Torso superior": 49,
+            "Brazos": 41,
+            "Abdomen": 45,
+            "Manos": 41,
+            "Piernas": 41,
+            "Pies": 41
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w17927621783831ggc",
+      "nombre": "AXION",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 706,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 260,
+          "sprint": 210,
+          "velocidad": 400,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 23,
+              "dano": 24
+            },
+            {
+              "hasta": 34,
+              "dano": 22
+            },
+            {
+              "hasta": 9999,
+              "dano": 20
+            }
+          ],
+          "zonas": {
+            "Cabeza": 32,
+            "Cuello": 26,
+            "Torso superior": 26,
+            "Brazos": 24,
+            "Abdomen": 24,
+            "Manos": 24,
+            "Piernas": 24,
+            "Pies": 24
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792762239606pjzd",
+      "nombre": "CRONEN SQUALL",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 674,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 305,
+          "sprint": 210,
+          "velocidad": 660,
+          "cargador": 20,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 26,
+              "dano": 28
+            },
+            {
+              "hasta": 37,
+              "dano": 26
+            },
+            {
+              "hasta": 9999,
+              "dano": 22
+            }
+          ],
+          "zonas": {
+            "Cabeza": 37,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 28,
+            "Abdomen": 28,
+            "Manos": 28,
+            "Piernas": 28,
+            "Pies": 28
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792762560632rrp8",
+      "nombre": "ISO NIGHTSHADE",
+      "categoria": "Subfusil",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 923,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 240,
+          "sprint": 110,
+          "velocidad": 530,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 11,
+              "dano": 21
+            },
+            {
+              "hasta": 20,
+              "dano": 17
+            },
+            {
+              "hasta": 28,
+              "dano": 15
+            },
+            {
+              "hasta": 9999,
+              "dano": 13
+            }
+          ],
+          "zonas": {
+            "Cabeza": 27,
+            "Cuello": 21,
+            "Torso superior": 21,
+            "Brazos": 19,
+            "Abdomen": 21,
+            "Manos": 19,
+            "Piernas": 19,
+            "Pies": 19
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792762612044vr0w",
+      "nombre": "VEL 46",
+      "categoria": "Subfusil",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 952,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 230,
+          "sprint": 110,
+          "velocidad": 565,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 10,
+              "dano": 20
+            },
+            {
+              "hasta": 17,
+              "dano": 17
+            },
+            {
+              "hasta": 25,
+              "dano": 15
+            },
+            {
+              "hasta": 9999,
+              "dano": 13
+            }
+          ],
+          "zonas": {
+            "Cabeza": 26,
+            "Cuello": 20,
+            "Torso superior": 20,
+            "Brazos": 19,
+            "Abdomen": 20,
+            "Manos": 19,
+            "Piernas": 19,
+            "Pies": 19
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792762674221u6v1",
+      "nombre": "WZ.55 STRIGA",
+      "categoria": "Subfusil",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 651,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 196,
+          "sprint": 96,
+          "velocidad": 380,
+          "cargador": 25,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 11,
+              "dano": 26
+            },
+            {
+              "hasta": 21,
+              "dano": 23
+            },
+            {
+              "hasta": 30,
+              "dano": 18
+            },
+            {
+              "hasta": 9999,
+              "dano": 17
+            }
+          ],
+          "zonas": {
+            "Cabeza": 36,
+            "Cuello": 26,
+            "Torso superior": 26,
+            "Brazos": 24,
+            "Abdomen": 26,
+            "Manos": 24,
+            "Piernas": 24,
+            "Pies": 24
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792762759251aq53",
+      "nombre": "PPSH-41",
+      "categoria": "Subfusil",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 1110,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 300,
+          "sprint": 110,
+          "velocidad": 550,
+          "cargador": 71,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 11,
+              "dano": 18
+            },
+            {
+              "hasta": 20,
+              "dano": 15
+            },
+            {
+              "hasta": 29,
+              "dano": 13
+            },
+            {
+              "hasta": 9999,
+              "dano": 12
+            }
+          ],
+          "zonas": {
+            "Cabeza": 23,
+            "Cuello": 18,
+            "Torso superior": 18,
+            "Brazos": 17,
+            "Abdomen": 18,
+            "Manos": 17,
+            "Piernas": 17,
+            "Pies": 17
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792762806673hjut",
+      "nombre": "X-58 NYX",
+      "categoria": "Subfusil",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 800,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 255,
+          "sprint": 110,
+          "velocidad": 450,
+          "cargador": 40,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 11,
+              "dano": 22
+            },
+            {
+              "hasta": 20,
+              "dano": 18
+            },
+            {
+              "hasta": 30,
+              "dano": 15
+            },
+            {
+              "hasta": 9999,
+              "dano": 13
+            }
+          ],
+          "zonas": {
+            "Cabeza": 27,
+            "Cuello": 22,
+            "Torso superior": 22,
+            "Brazos": 20,
+            "Abdomen": 22,
+            "Manos": 20,
+            "Piernas": 20,
+            "Pies": 20
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w17927630816843d1w",
+      "nombre": "FINN LMG",
+      "categoria": "Ametralladora ligera",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 588,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 400,
+          "sprint": 237,
+          "velocidad": 710,
+          "cargador": 100,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 22,
+              "dano": 30
+            },
+            {
+              "hasta": 44,
+              "dano": 28
+            },
+            {
+              "hasta": 9999,
+              "dano": 26
+            }
+          ],
+          "zonas": {
+            "Cabeza": 39,
+            "Cuello": 33,
+            "Torso superior": 33,
+            "Brazos": 33,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792763139481od59",
+      "nombre": "TYPE 73",
+      "categoria": "Ametralladora ligera",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 821,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 460,
+          "sprint": 245,
+          "velocidad": 690,
+          "cargador": 60,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 25,
+              "dano": 22
+            },
+            {
+              "hasta": 47,
+              "dano": 21
+            },
+            {
+              "hasta": 9999,
+              "dano": 19
+            }
+          ],
+          "zonas": {
+            "Cabeza": 27,
+            "Cuello": 24,
+            "Torso superior": 24,
+            "Brazos": 22,
+            "Abdomen": 22,
+            "Manos": 22,
+            "Piernas": 22,
+            "Pies": 22
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w179276319228214vk",
+      "nombre": "APOC-338",
+      "categoria": "Ametralladora ligera",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 555,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 510,
+          "sprint": 250,
+          "velocidad": 730,
+          "cargador": 50,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 23,
+              "dano": 41
+            },
+            {
+              "hasta": 50,
+              "dano": 38
+            },
+            {
+              "hasta": 9999,
+              "dano": 35
+            }
+          ],
+          "zonas": {
+            "Cabeza": 55,
+            "Cuello": 45,
+            "Torso superior": 45,
+            "Brazos": 41,
+            "Abdomen": 41,
+            "Manos": 41,
+            "Piernas": 41,
+            "Pies": 41
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w17927632514901hff",
+      "nombre": "M4 HURACAN",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 698,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 168,
+          "velocidad": 485,
+          "cargador": 50,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 10,
+              "dano": 27
+            },
+            {
+              "hasta": 20,
+              "dano": 22
+            },
+            {
+              "hasta": 9999,
+              "dano": 18
+            }
+          ],
+          "zonas": {
+            "Cabeza": 33,
+            "Cuello": 29,
+            "Torso superior": 29,
+            "Brazos": 27,
+            "Abdomen": 27,
+            "Manos": 27,
+            "Piernas": 27,
+            "Pies": 27
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w1792763396997hs22",
+      "nombre": "HYEON HUPEREXPLOSIÓN",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 462,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 275,
+          "sprint": 210,
+          "velocidad": 775,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 25,
+              "dano": 37
+            },
+            {
+              "hasta": 37,
+              "dano": 34
+            },
+            {
+              "hasta": 9999,
+              "dano": 30
+            }
+          ],
+          "zonas": {
+            "Cabeza": 48,
+            "Cuello": 40,
+            "Torso superior": 40,
+            "Brazos": 37,
+            "Abdomen": 37,
+            "Manos": 37,
+            "Piernas": 37,
+            "Pies": 37
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w17927634472325nx3",
+      "nombre": "X-58 VACÍO",
+      "categoria": "Subfusil",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 714,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 255,
+          "sprint": 110,
+          "velocidad": 285,
+          "cargador": 400,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 11,
+              "dano": 23
+            },
+            {
+              "hasta": 20,
+              "dano": 19
+            },
+            {
+              "hasta": 29,
+              "dano": 16
+            },
+            {
+              "hasta": 9999,
+              "dano": 14
+            }
+          ],
+          "zonas": {
+            "Cabeza": 28,
+            "Cuello": 23,
+            "Torso superior": 23,
+            "Brazos": 21,
+            "Abdomen": 23,
+            "Manos": 21,
+            "Piernas": 21,
+            "Pies": 21
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w179276383803420of",
+      "nombre": "Arma sin nombre",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
           }
         }
       }
