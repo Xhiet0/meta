@@ -11,9 +11,9 @@
   ],
   "mezcla": {
     "Cabeza": 10,
-    "Cuello": 15,
+    "Cuello": 5,
     "Torso superior": 45,
-    "Abdomen": 15,
+    "Abdomen": 25,
     "Brazos": 0,
     "Manos": 0,
     "Piernas": 10,
@@ -4796,6 +4796,86 @@
             "Manos": 21,
             "Piernas": 21,
             "Pies": 21
+          }
+        },
+        "wz": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "w179276383803420of",
+      "nombre": "Arma sin nombre",
+      "categoria": "Fusil de asalto",
+      "juego": "Ambos",
+      "perfiles": {
+        "mp": {
+          "rpm": 700,
+          "pellets": 1,
+          "burstN": 0,
+          "burstDelay": 0,
+          "dual": "no",
+          "rpmInicial": 0,
+          "balasIniciales": 2,
+          "modo": "Automático",
+          "ads": 250,
+          "sprint": 250,
+          "velocidad": 600,
+          "cargador": 30,
+          "recarga": 2000,
+          "notas": "",
+          "tramos": [
+            {
+              "hasta": 30,
+              "dano": 30
+            },
+            {
+              "hasta": 9999,
+              "dano": 25
+            }
+          ],
+          "zonas": {
+            "Cabeza": 30,
+            "Cuello": 30,
+            "Torso superior": 30,
+            "Brazos": 30,
+            "Abdomen": 30,
+            "Manos": 30,
+            "Piernas": 30,
+            "Pies": 30
           }
         },
         "wz": {
