@@ -3257,8 +3257,8 @@
           ],
           "zonas": {
             "Cabeza": 28,
-            "Cuello": 25,
-            "Torso superior": 25,
+            "Cuello": 23,
+            "Torso superior": 23,
             "Brazos": 23,
             "Abdomen": 23,
             "Manos": 23,
@@ -3327,7 +3327,7 @@
           "notas": "",
           "tramos": [
             {
-              "hasta": 25,
+              "hasta": 26,
               "dano": 23
             },
             {
@@ -3491,7 +3491,7 @@
           "notas": "",
           "tramos": [
             {
-              "hasta": 24,
+              "hasta": 27,
               "dano": 30
             },
             {
@@ -3673,10 +3673,10 @@
           ],
           "zonas": {
             "Cabeza": 57,
-            "Cuello": 49,
-            "Torso superior": 49,
+            "Cuello": 45,
+            "Torso superior": 45,
             "Brazos": 41,
-            "Abdomen": 45,
+            "Abdomen": 41,
             "Manos": 41,
             "Piernas": 41,
             "Pies": 41
@@ -3931,9 +3931,9 @@
             "Cabeza": 27,
             "Cuello": 21,
             "Torso superior": 21,
-            "Brazos": 19,
+            "Brazos": 21,
             "Abdomen": 21,
-            "Manos": 19,
+            "Manos": 21,
             "Piernas": 19,
             "Pies": 19
           }
@@ -4019,9 +4019,9 @@
             "Cabeza": 26,
             "Cuello": 20,
             "Torso superior": 20,
-            "Brazos": 19,
+            "Brazos": 20,
             "Abdomen": 20,
-            "Manos": 19,
+            "Manos": 20,
             "Piernas": 19,
             "Pies": 19
           }
@@ -4087,7 +4087,7 @@
           "notas": "",
           "tramos": [
             {
-              "hasta": 11,
+              "hasta": 12,
               "dano": 26
             },
             {
@@ -4107,9 +4107,9 @@
             "Cabeza": 36,
             "Cuello": 26,
             "Torso superior": 26,
-            "Brazos": 24,
+            "Brazos": 26,
             "Abdomen": 26,
-            "Manos": 24,
+            "Manos": 26,
             "Piernas": 24,
             "Pies": 24
           }
@@ -4195,9 +4195,9 @@
             "Cabeza": 23,
             "Cuello": 18,
             "Torso superior": 18,
-            "Brazos": 17,
+            "Brazos": 18,
             "Abdomen": 18,
-            "Manos": 17,
+            "Manos": 18,
             "Piernas": 17,
             "Pies": 17
           }
@@ -4280,12 +4280,12 @@
             }
           ],
           "zonas": {
-            "Cabeza": 27,
+            "Cabeza": 28,
             "Cuello": 22,
             "Torso superior": 22,
-            "Brazos": 20,
+            "Brazos": 22,
             "Abdomen": 22,
-            "Manos": 20,
+            "Manos": 22,
             "Piernas": 20,
             "Pies": 20
           }
@@ -4355,7 +4355,7 @@
               "dano": 30
             },
             {
-              "hasta": 44,
+              "hasta": 41,
               "dano": 28
             },
             {
@@ -4367,7 +4367,7 @@
             "Cabeza": 39,
             "Cuello": 33,
             "Torso superior": 33,
-            "Brazos": 33,
+            "Brazos": 30,
             "Abdomen": 30,
             "Manos": 30,
             "Piernas": 30,
@@ -4523,12 +4523,12 @@
               "dano": 41
             },
             {
-              "hasta": 50,
-              "dano": 38
+              "hasta": 48,
+              "dano": 37
             },
             {
               "hasta": 9999,
-              "dano": 35
+              "dano": 33
             }
           ],
           "zonas": {
@@ -4687,11 +4687,7 @@
           "notas": "",
           "tramos": [
             {
-              "hasta": 25,
-              "dano": 37
-            },
-            {
-              "hasta": 37,
+              "hasta": 31,
               "dano": 34
             },
             {
@@ -4700,14 +4696,14 @@
             }
           ],
           "zonas": {
-            "Cabeza": 48,
-            "Cuello": 40,
-            "Torso superior": 40,
-            "Brazos": 37,
-            "Abdomen": 37,
-            "Manos": 37,
-            "Piernas": 37,
-            "Pies": 37
+            "Cabeza": 44,
+            "Cuello": 37,
+            "Torso superior": 37,
+            "Brazos": 34,
+            "Abdomen": 34,
+            "Manos": 34,
+            "Piernas": 34,
+            "Pies": 34
           }
         },
         "wz": {
@@ -4775,7 +4771,7 @@
               "dano": 23
             },
             {
-              "hasta": 20,
+              "hasta": 21,
               "dano": 19
             },
             {
@@ -4791,9 +4787,9 @@
             "Cabeza": 28,
             "Cuello": 23,
             "Torso superior": 23,
-            "Brazos": 21,
+            "Brazos": 23,
             "Abdomen": 23,
-            "Manos": 21,
+            "Manos": 23,
             "Piernas": 21,
             "Pies": 21
           }
